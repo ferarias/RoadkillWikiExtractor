@@ -7,5 +7,5 @@ Currently it only extracts MongoDB data.
 To use, compile and invoke in a command line
 
 `
-RoadkillWikiExtractor.exe" --connection mongodb://<user>:<pass>@<mongodbhost> --database <database> --output <outputFolder>
+RoadkillWikiExtractor --connection mongodb://<user>:<pass>@<mongodbhost> --database <database> --output <outputFolder>
 `
